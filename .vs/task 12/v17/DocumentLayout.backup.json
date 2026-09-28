@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basma\\Desktop\\.NET\\9 EF core\\task 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2952C56A-7AAB-4FA4-B24D-4A05A04A3C7E}|task 12\\task 12.csproj|c:\\users\\basma\\desktop\\.net\\9 ef core\\task 12\\task 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952C56A-7AAB-4FA4-B24D-4A05A04A3C7E}|task 12\\task 12.csproj|solutionrelative:task 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952C56A-7AAB-4FA4-B24D-4A05A04A3C7E}|task 12\\task 12.csproj|c:\\users\\basma\\desktop\\.net\\9 ef core\\task 12\\task 12\\customers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2952C56A-7AAB-4FA4-B24D-4A05A04A3C7E}|task 12\\task 12.csproj|solutionrelative:task 12\\customers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952C56A-7AAB-4FA4-B24D-4A05A04A3C7E}|task 12\\task 12.csproj|c:\\users\\basma\\desktop\\.net\\9 ef core\\task 12\\task 12\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952C56A-7AAB-4FA4-B24D-4A05A04A3C7E}|task 12\\task 12.csproj|solutionrelative:task 12\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1318,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customers.xml",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\.NET\\9 EF core\\task 12\\task 12\\Customers.xml",
+              "RelativeDocumentMoniker": "task 12\\Customers.xml",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\.NET\\9 EF core\\task 12\\task 12\\Customers.xml",
+              "RelativeToolTip": "task 12\\Customers.xml",
+              "ViewState": "AgIAAGAUAAAAAAAAAAAiwIIUAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-25T17:23:44.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\.NET\\9 EF core\\task 12\\task 12\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "task 12\\ListGenerator.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\.NET\\9 EF core\\task 12\\task 12\\ListGenerator.cs",
+              "RelativeToolTip": "task 12\\ListGenerator.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAArwOoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:31:16.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\.NET\\9 EF core\\task 12\\task 12\\Program.cs",
+              "RelativeDocumentMoniker": "task 12\\Program.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\.NET\\9 EF core\\task 12\\task 12\\Program.cs",
+              "RelativeToolTip": "task 12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:26:14.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\bin\Debug\net8.0\task 12.exe
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\bin\Debug\net8.0\task 12.deps.json
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\bin\Debug\net8.0\task 12.runtimeconfig.json
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\bin\Debug\net8.0\task 12.dll
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\bin\Debug\net8.0\task 12.pdb
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\task 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\task 12.AssemblyInfoInputs.cache
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\task 12.AssemblyInfo.cs
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\task 12.csproj.CoreCompileInputs.cache
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\task 12.sourcelink.json
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\task 12.dll
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\refint\task 12.dll
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\task 12.pdb
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\task 12.genruntimeconfig.cache
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\obj\Debug\net8.0\ref\task 12.dll
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\bin\Debug\net8.0\Customers.xml
+C:\Users\basma\Desktop\.NET\9 EF core\task 12\task 12\bin\Debug\net8.0\dictionary_english.txt
